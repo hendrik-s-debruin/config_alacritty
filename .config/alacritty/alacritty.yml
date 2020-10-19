@@ -160,8 +160,8 @@ colors:
       #background: '0x2b303b'
       #foreground: '0xc0c5ce'
       # gruvbox
-      background: '0x262626'
-      foreground: '0xfbf1c7'
+      background: '0x242424'
+      foreground: '0xebdbb2'
 
     # Bright and dim foreground colors
     #
